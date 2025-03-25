@@ -1,0 +1,17 @@
+{
+  "name": "pc__asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Francisco Gerardo Salinas Mendoza - frangersal@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
