@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Curso de Asincronismo con JavaScript",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +13,7 @@
   "author": "Francisco Gerardo Salinas Mendoza - frangersal@outlook.com",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
   }
 }
